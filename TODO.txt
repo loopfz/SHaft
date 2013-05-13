@@ -1,0 +1,63 @@
+[-] conditions if, elif, else
+
+[-] while loops
+
+[-] for loops
+
+[-] quotes, double quotes
+
+[-] expand environment variables
+
+[-] expand local variables
+
+[-] set local variables
+
+[-] multi-line input (state stack)
+
+[-] redirections < > >>
+
+[-] pipes
+
+[-] declare functions
+
+[-] function/shell parameterss ($1 $2 ...)
+
+[-] subshell () and command grouping {}
+
+[-] logical operators (&& ||)
+
+[-] command lists ;
+
+[-] prompt (user@host)
+
+[-] substitution: `` and $()
+
+[-] comments (#)
+
+[-] cd
+
+[-] export
+
+[-] echo
+
+[-] exit
+
+[-] unset
+
+[-] alias
+
+[-] tokenize + expand tokens (variables char* value -> token_t* list)
+
+* << redirection
+
+* globbing
+
+* line edit
+
+* history
+
+* arithmetic evaluation $((1 + 1))
+
+* job control
+
+* completion
